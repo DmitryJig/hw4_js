@@ -1,4 +1,4 @@
-insert into products (title, cost)
+insert into product (title, cost)
 values
     ('tomato', 10.0),
     ('potato', 20.0),
